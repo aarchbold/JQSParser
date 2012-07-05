@@ -5,13 +5,4 @@ JavaScript Query String Parser - A jquery plugin that extracts query strings fro
 
 Future home of the JQSParser plugin. Details coming soon
 
-
-
-
-
-
-
-
-
-dafasddff
 test test test
